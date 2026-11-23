@@ -1,0 +1,106 @@
+[
+  {
+    "id": "custom_越南",
+    "simplified": "越南",
+    "pinyin": "Yuènán",
+    "meaningVi": "Việt Nam",
+    "level": 1,
+    "example": {
+      "zh": "",
+      "pinyin": "",
+      "vi": ""
+    },
+    "grammarNote": ""
+  },
+  {
+    "id": "custom_中国",
+    "simplified": "中国",
+    "pinyin": "Zhōngguó",
+    "meaningVi": "Trung Quốc",
+    "level": 1,
+    "example": {
+      "zh": "",
+      "pinyin": "",
+      "vi": ""
+    },
+    "grammarNote": ""
+  },
+  {
+    "id": "custom_美国",
+    "simplified": "美国",
+    "pinyin": "Měiguó",
+    "meaningVi": "Mỹ",
+    "level": 1,
+    "example": {
+      "zh": "",
+      "pinyin": "",
+      "vi": ""
+    },
+    "grammarNote": ""
+  },
+  {
+    "id": "custom_河内",
+    "simplified": "河内",
+    "pinyin": "Hénèi",
+    "meaningVi": "Hà Nội",
+    "level": 1,
+    "example": {
+      "zh": "",
+      "pinyin": "",
+      "vi": ""
+    },
+    "grammarNote": ""
+  },
+  {
+    "id": "custom_胡志明市",
+    "simplified": "胡志明市",
+    "pinyin": "Húzhìmíng shì",
+    "meaningVi": "Thành phố Hồ Chí Minh",
+    "level": 1,
+    "example": {
+      "zh": "",
+      "pinyin": "",
+      "vi": ""
+    },
+    "grammarNote": ""
+  },
+  {
+    "id": "custom_你好",
+    "simplified": "你好",
+    "pinyin": "nǐ hǎo",
+    "meaningVi": "Xin chào",
+    "level": 1,
+    "example": {
+      "zh": "",
+      "pinyin": "",
+      "vi": ""
+    },
+    "grammarNote": ""
+  },
+  {
+    "id": "custom_谢谢",
+    "simplified": "谢谢",
+    "pinyin": "xièxie",
+    "meaningVi": "Cảm ơn",
+    "level": 1,
+    "example": {
+      "zh": "",
+      "pinyin": "",
+      "vi": ""
+    },
+    "grammarNote": ""
+  },
+  {
+    "id": "custom_再见",
+    "simplified": "再见",
+    "pinyin": "zàijiàn",
+    "meaningVi": "Tạm biệt",
+    "level": 1,
+    "example": {
+      "zh": "",
+      "pinyin": "",
+      "vi": ""
+    },
+    "grammarNote": ""
+  }
+]
